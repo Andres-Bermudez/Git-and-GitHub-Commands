@@ -1,5 +1,11 @@
 # Git and GitHub Commands
 
+## Indice
+
+- [Configure your identity in git](#1-configure-your-identity-in-git)
+- [Basic Commands](#2-basic-commands)
+- [SSH Key](#3-create-ssh-key)
+
 ## 1. Configure your identity in git:
     git config --global user.name "Your name"
     git config --global user.email "youremail@example.com"
